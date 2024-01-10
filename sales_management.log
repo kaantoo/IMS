@@ -1,0 +1,133 @@
+INFO:root:Generating sales report.
+INFO:root:Generating sales report.
+INFO:root:Generating stock report.
+INFO:root:Generating profitability report.
+INFO:root:Visualizing data with charts.
+INFO:root:Generating sales report.
+ERROR:root:Error querying sales data: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, SUM(quantity) AS quantity FROM sales_hi...
+               ^
+
+INFO:root:Generating stock report.
+ERROR:root:Error querying stock data: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, quantity FROM products
+               ^
+
+INFO:root:Generating stock report.
+ERROR:root:Error querying stock data: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, quantity FROM products
+               ^
+
+INFO:root:Generating stock report.
+ERROR:root:Error querying stock data: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, quantity FROM products
+               ^
+
+INFO:root:Generating stock report.
+ERROR:root:Error querying stock data: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, quantity FROM products
+               ^
+
+INFO:root:Generating profitability report.
+ERROR:root:Error querying profitability data: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, SUM(total) AS profit FROM sales_history...
+               ^
+
+INFO:root:Generating profitability report.
+ERROR:root:Error querying profitability data: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, SUM(total) AS profit FROM sales_history...
+               ^
+
+INFO:root:Visualizing data with charts.
+ERROR:root:Error querying data for visualization: HATA:  "your_table" nesnesi mevcut deðil
+LINE 1: SELECT column1, column2 FROM your_table
+                                     ^
+
+INFO:root:Generating sales report.
+ERROR:root:Error querying sales data: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, SUM(quantity) AS quantity FROM sales_hi...
+               ^
+
+INFO:root:Generating sales report.
+ERROR:root:Error querying sales data: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, SUM(quantity) AS quantity FROM sales_hi...
+               ^
+
+INFO:root:Generating stock report.
+ERROR:root:Error querying stock data: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, quantity FROM products
+               ^
+
+INFO:root:Generating profitability report.
+ERROR:root:Error querying profitability data: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, SUM(total) AS profit FROM sales_history...
+               ^
+
+INFO:root:Visualizing data with charts.
+ERROR:root:Error querying data for visualization: HATA:  "column1" sütunu mevcut deðil
+LINE 1: SELECT column1, column2 FROM reports
+               ^
+
+INFO:root:Generating sales report.
+ERROR:root:Error querying sales data: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, SUM(quantity) AS quantity FROM sales_hi...
+               ^
+
+INFO:root:Viewing sales history.
+ERROR:root:Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+INFO:root:Viewing sales history.
+ERROR:root:Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+INFO:root:Visualizing data with charts.
+ERROR:root:Error querying data for visualization: HATA:  "column1" sütunu mevcut deðil
+LINE 1: SELECT column1, column2 FROM reports
+               ^
+
+INFO:root:Generating stock report.
+ERROR:root:Error querying stock data: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, quantity FROM products
+               ^
+
+INFO:root:Generating sales report.
+ERROR:root:Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+INFO:root:Products loaded successfully
+ERROR:root:Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+ERROR:root:Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+INFO:root:Products loaded successfully
+ERROR:root:Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+ERROR:root:Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+INFO:root:Products loaded successfully
+ERROR:root:Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+INFO:root:Products loaded successfully
+INFO:root:Low stock levels checked successfully
+INFO:root:Products loaded successfully
+INFO:root:Low stock levels checked successfully
+INFO:root:Products loaded successfully
+INFO:root:Low stock levels checked successfully
+INFO:root:Products loaded successfully
+INFO:root:Low stock levels checked successfully
+INFO:root:Products loaded successfully
+INFO:root:Low stock levels checked successfully
+INFO:root:Products loaded successfully
+INFO:root:Low stock levels checked successfully
+INFO:root:Products loaded successfully
+ERROR:root:Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+INFO:root:Low stock levels checked successfully
+INFO:root:Products loaded successfully
+INFO:root:Low stock levels checked successfully
+INFO:root:Products loaded successfully
+INFO:root:Low stock levels checked successfully
+INFO:root:Products loaded successfully
+INFO:root:Low stock levels checked successfully
+INFO:root:Products loaded successfully
+INFO:root:Low stock levels checked successfully
+INFO:root:Products loaded successfully
+INFO:root:Low stock levels checked successfully
+INFO:root:Products loaded successfully

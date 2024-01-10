@@ -1,0 +1,1202 @@
+2024-01-09 03:56:34,002 - INFO - Low stock levels checked successfully
+2024-01-09 03:56:40,830 - INFO - Low stock levels checked successfully
+2024-01-09 03:56:45,488 - INFO - Low stock levels checked successfully
+2024-01-09 03:56:48,167 - INFO - Low stock levels checked successfully
+2024-01-09 03:56:51,646 - INFO - Low stock levels checked successfully
+2024-01-09 03:57:40,686 - INFO - Low stock levels checked successfully
+2024-01-09 03:57:47,594 - INFO - Low stock levels checked successfully
+2024-01-09 03:57:58,129 - INFO - Low stock levels checked successfully
+2024-01-09 03:58:07,350 - INFO - Low stock levels checked successfully
+2024-01-09 04:09:53,936 - INFO - Low stock levels checked successfully
+2024-01-09 04:09:53,936 - INFO - Products loaded successfully
+2024-01-09 04:10:18,579 - INFO - Product added successfully
+2024-01-09 04:10:18,613 - INFO - Low stock levels checked successfully
+2024-01-09 04:10:18,613 - INFO - Products loaded successfully
+2024-01-09 04:10:48,529 - INFO - Product updated successfully
+2024-01-09 04:10:48,564 - INFO - Low stock levels checked successfully
+2024-01-09 04:10:48,564 - INFO - Products loaded successfully
+2024-01-09 04:15:15,147 - INFO - Low stock levels checked successfully
+2024-01-09 04:15:15,148 - INFO - Products loaded successfully
+2024-01-09 04:15:38,204 - INFO - Product added successfully
+2024-01-09 04:15:38,238 - INFO - Low stock levels checked successfully
+2024-01-09 04:15:38,238 - INFO - Products loaded successfully
+2024-01-09 04:17:33,554 - INFO - Low stock levels checked successfully
+2024-01-09 04:17:33,554 - INFO - Products loaded successfully
+2024-01-09 04:19:25,224 - INFO - Low stock levels checked successfully
+2024-01-09 04:19:25,224 - INFO - Products loaded successfully
+2024-01-09 04:20:17,932 - INFO - Low stock levels checked successfully
+2024-01-09 04:20:17,932 - INFO - Products loaded successfully
+2024-01-09 04:26:11,863 - INFO - Low stock levels checked successfully
+2024-01-09 04:26:11,863 - INFO - Products loaded successfully
+2024-01-09 04:26:31,206 - INFO - Product "aga" sold successfully. Quantity: 1
+2024-01-09 04:26:31,206 - INFO - Low stock levels checked successfully
+2024-01-09 04:26:31,238 - INFO - Low stock levels checked successfully
+2024-01-09 04:26:31,238 - INFO - Products loaded successfully
+2024-01-09 04:26:35,587 - INFO - Product "aga" sold successfully. Quantity: 1
+2024-01-09 04:26:35,587 - INFO - Low stock levels checked successfully
+2024-01-09 04:26:35,620 - INFO - Low stock levels checked successfully
+2024-01-09 04:26:35,620 - INFO - Products loaded successfully
+2024-01-09 04:26:40,106 - INFO - Product "aga" sold successfully. Quantity: 1
+2024-01-09 04:26:40,106 - INFO - Low stock levels checked successfully
+2024-01-09 04:26:41,489 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:26:41,490 - INFO - Low stock levels checked successfully
+2024-01-09 04:26:41,490 - INFO - Products loaded successfully
+2024-01-09 04:33:45,875 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:33:45,876 - INFO - Low stock levels checked successfully
+2024-01-09 04:33:45,876 - INFO - Products loaded successfully
+2024-01-09 04:35:26,505 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:35:26,505 - INFO - Low stock levels checked successfully
+2024-01-09 04:35:26,506 - INFO - Products loaded successfully
+2024-01-09 04:37:05,097 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:37:05,097 - INFO - Low stock levels checked successfully
+2024-01-09 04:37:05,097 - INFO - Products loaded successfully
+2024-01-09 04:38:20,310 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:38:20,310 - INFO - Low stock levels checked successfully
+2024-01-09 04:38:20,310 - INFO - Products loaded successfully
+2024-01-09 04:38:38,301 - INFO - Product added successfully
+2024-01-09 04:38:39,741 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:38:39,741 - INFO - Low stock levels checked successfully
+2024-01-09 04:38:39,741 - INFO - Products loaded successfully
+2024-01-09 04:38:45,689 - INFO - Product "gg" sold successfully. Quantity: 1
+2024-01-09 04:38:46,979 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:38:46,979 - INFO - Low stock levels checked successfully
+2024-01-09 04:38:49,288 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:38:50,697 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:38:50,697 - INFO - Low stock levels checked successfully
+2024-01-09 04:38:50,697 - INFO - Products loaded successfully
+2024-01-09 04:43:14,740 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:43:15,479 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:43:15,479 - INFO - Low stock levels checked successfully
+2024-01-09 04:43:15,479 - INFO - Products loaded successfully
+2024-01-09 04:43:36,812 - INFO - Product updated successfully
+2024-01-09 04:43:38,064 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:43:38,065 - INFO - Low stock levels checked successfully
+2024-01-09 04:43:38,065 - INFO - Products loaded successfully
+2024-01-09 04:43:46,746 - INFO - Product "aga" sold successfully. Quantity: 1
+2024-01-09 04:43:47,962 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:43:47,963 - INFO - Low stock levels checked successfully
+2024-01-09 04:43:48,800 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:43:49,850 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:43:49,850 - INFO - Low stock levels checked successfully
+2024-01-09 04:43:49,850 - INFO - Products loaded successfully
+2024-01-09 04:48:53,789 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:48:54,611 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:48:54,611 - INFO - Low stock levels checked successfully
+2024-01-09 04:48:54,611 - INFO - Products loaded successfully
+2024-01-09 04:49:09,285 - INFO - Product "asdasd" sold successfully. Quantity: 3
+2024-01-09 04:49:09,286 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'create_sales_order'
+2024-01-09 04:49:16,955 - INFO - Sales order created successfully
+2024-01-09 04:49:30,464 - INFO - Sales order created successfully
+2024-01-09 04:49:32,971 - INFO - Sales order created successfully
+2024-01-09 04:49:37,731 - INFO - Sales order created successfully
+2024-01-09 04:49:38,183 - INFO - Sales order created successfully
+2024-01-09 04:49:38,359 - INFO - Sales order created successfully
+2024-01-09 04:52:14,512 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:52:15,018 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:52:15,482 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 04:52:15,483 - INFO - Low stock levels checked successfully
+2024-01-09 04:52:15,483 - INFO - Products loaded successfully
+2024-01-09 04:52:17,856 - INFO - Sales order created successfully
+2024-01-09 04:52:17,890 - INFO - Sales order committed to the database.
+2024-01-09 04:52:19,570 - INFO - Sales order created successfully
+2024-01-09 04:52:19,605 - INFO - Sales order committed to the database.
+2024-01-09 04:54:19,753 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:54:20,209 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:54:20,672 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 04:54:20,672 - INFO - Low stock levels checked successfully
+2024-01-09 04:54:20,672 - INFO - Products loaded successfully
+2024-01-09 04:56:16,746 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:56:17,185 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:56:17,614 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 04:56:17,614 - INFO - Low stock levels checked successfully
+2024-01-09 04:56:17,615 - INFO - Products loaded successfully
+2024-01-09 04:56:25,993 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:56:26,371 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:56:26,751 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 04:56:26,751 - INFO - Low stock levels checked successfully
+2024-01-09 04:56:26,751 - INFO - Products loaded successfully
+2024-01-09 04:56:29,213 - INFO - Sales history loaded successfully.
+2024-01-09 04:56:52,153 - INFO - Product "as" sold successfully. Quantity: 15
+2024-01-09 04:56:52,153 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'create_sales_order'
+2024-01-09 04:57:02,056 - INFO - Product "as" sold successfully. Quantity: 15
+2024-01-09 04:57:02,057 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'create_sales_order'
+2024-01-09 04:57:16,358 - INFO - Product "as" sold successfully. Quantity: 1
+2024-01-09 04:57:17,397 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:57:17,943 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:57:18,455 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 04:57:18,455 - INFO - Low stock levels checked successfully
+2024-01-09 04:57:18,455 - INFO - Products loaded successfully
+2024-01-09 04:57:23,942 - INFO - Product "as" sold successfully. Quantity: 5
+2024-01-09 04:57:24,836 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:57:25,570 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:57:26,029 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 04:57:26,029 - INFO - Low stock levels checked successfully
+2024-01-09 04:57:26,029 - INFO - Products loaded successfully
+2024-01-09 04:57:32,854 - INFO - Product "as" sold successfully. Quantity: 12
+2024-01-09 04:57:32,854 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'create_sales_order'
+2024-01-09 04:57:39,238 - INFO - Product "as" sold successfully. Quantity: 9
+2024-01-09 04:57:39,238 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'create_sales_order'
+2024-01-09 04:57:43,254 - INFO - Product "as" sold successfully. Quantity: 4
+2024-01-09 04:57:44,086 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:57:45,130 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:57:45,599 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 04:57:45,599 - INFO - Low stock levels checked successfully
+2024-01-09 04:57:45,599 - INFO - Products loaded successfully
+2024-01-09 04:57:49,275 - INFO - Product "as" sold successfully. Quantity: 1
+2024-01-09 04:57:49,275 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'create_sales_order'
+2024-01-09 04:57:54,330 - INFO - Product "as" sold successfully. Quantity: 1
+2024-01-09 04:57:54,330 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'create_sales_order'
+2024-01-09 04:57:59,836 - INFO - Product "as" sold successfully. Quantity: 1
+2024-01-09 04:57:59,836 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'create_sales_order'
+2024-01-09 04:58:08,774 - INFO - Product "as" sold successfully. Quantity: 1
+2024-01-09 04:58:08,774 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'create_sales_order'
+2024-01-09 04:58:36,357 - INFO - Product "as" sold successfully. Quantity: 1
+2024-01-09 04:58:36,357 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'create_sales_order'
+2024-01-09 04:58:44,979 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:58:45,410 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:58:45,889 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 04:58:46,532 - INFO - Sale order created for as due to low stock
+2024-01-09 04:58:46,532 - INFO - Low stock levels checked successfully
+2024-01-09 04:58:46,532 - INFO - Products loaded successfully
+2024-01-09 04:58:52,511 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:58:53,478 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:58:54,061 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 04:58:54,859 - INFO - Sale order created for as due to low stock
+2024-01-09 04:58:54,860 - INFO - Low stock levels checked successfully
+2024-01-09 04:58:54,860 - INFO - Products loaded successfully
+2024-01-09 04:58:57,951 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:58:58,885 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:58:59,049 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 04:58:59,269 - INFO - Sale order created for as due to low stock
+2024-01-09 04:58:59,269 - INFO - Low stock levels checked successfully
+2024-01-09 04:58:59,269 - INFO - Products loaded successfully
+2024-01-09 04:59:02,947 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:59:03,400 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:59:03,568 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 04:59:04,130 - INFO - Sale order created for as due to low stock
+2024-01-09 04:59:04,130 - INFO - Low stock levels checked successfully
+2024-01-09 04:59:04,130 - INFO - Products loaded successfully
+2024-01-09 04:59:18,600 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:59:18,994 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:59:19,372 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 04:59:19,796 - INFO - Sale order created for as due to low stock
+2024-01-09 04:59:19,796 - INFO - Low stock levels checked successfully
+2024-01-09 04:59:19,796 - INFO - Products loaded successfully
+2024-01-09 04:59:29,467 - INFO - Product "xxxx" sold successfully. Quantity: 22
+2024-01-09 04:59:30,715 - INFO - Sale order created for gg due to low stock
+2024-01-09 04:59:31,590 - INFO - Sale order created for aga due to low stock
+2024-01-09 04:59:31,999 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 04:59:32,717 - INFO - Sale order created for as due to low stock
+2024-01-09 04:59:32,717 - INFO - Low stock levels checked successfully
+2024-01-09 04:59:32,717 - INFO - Products loaded successfully
+2024-01-09 04:59:40,396 - INFO - Sales history loaded successfully.
+2024-01-09 05:00:46,338 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:00:46,822 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:00:47,248 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:00:47,728 - INFO - Sale order created for as due to low stock
+2024-01-09 05:00:47,728 - INFO - Low stock levels checked successfully
+2024-01-09 05:00:47,728 - INFO - Products loaded successfully
+2024-01-09 05:00:51,158 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 05:00:52,323 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 05:00:52,892 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 05:01:02,540 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:01:02,979 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:01:03,156 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:01:03,795 - INFO - Sale order created for as due to low stock
+2024-01-09 05:01:03,795 - INFO - Low stock levels checked successfully
+2024-01-09 05:01:03,795 - INFO - Products loaded successfully
+2024-01-09 05:01:10,407 - INFO - Product "xx" sold successfully. Quantity: 1
+2024-01-09 05:01:11,648 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:01:12,074 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:01:12,518 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:01:13,020 - INFO - Sale order created for as due to low stock
+2024-01-09 05:01:13,020 - INFO - Low stock levels checked successfully
+2024-01-09 05:01:13,020 - INFO - Products loaded successfully
+2024-01-09 05:01:14,308 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 05:02:24,177 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:02:25,041 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:02:25,207 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:02:25,655 - INFO - Sale order created for as due to low stock
+2024-01-09 05:02:25,655 - INFO - Low stock levels checked successfully
+2024-01-09 05:02:25,655 - INFO - Products loaded successfully
+2024-01-09 05:03:05,069 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:03:06,529 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:03:07,529 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:03:08,496 - INFO - Sale order created for as due to low stock
+2024-01-09 05:03:08,496 - INFO - Low stock levels checked successfully
+2024-01-09 05:03:08,496 - INFO - Products loaded successfully
+2024-01-09 05:03:17,375 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:03:17,787 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:03:18,163 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:03:18,617 - INFO - Sale order created for as due to low stock
+2024-01-09 05:03:18,617 - INFO - Low stock levels checked successfully
+2024-01-09 05:03:18,617 - INFO - Products loaded successfully
+2024-01-09 05:03:30,580 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(7) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 05:03:32,599 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(7) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 05:03:35,823 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(7) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 05:03:38,504 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(4) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 05:03:40,888 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(6) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 05:03:46,656 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(3) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 05:03:52,790 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:03:53,176 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:03:53,539 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:03:53,986 - INFO - Sale order created for as due to low stock
+2024-01-09 05:03:53,986 - INFO - Low stock levels checked successfully
+2024-01-09 05:03:53,986 - INFO - Products loaded successfully
+2024-01-09 05:04:01,714 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(7) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 05:04:06,328 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(7) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 05:04:55,191 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:04:55,653 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:04:56,029 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:04:56,925 - INFO - Sale order created for as due to low stock
+2024-01-09 05:04:56,925 - INFO - Low stock levels checked successfully
+2024-01-09 05:04:56,925 - INFO - Products loaded successfully
+2024-01-09 05:05:11,342 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:05:11,487 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:05:11,667 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:05:12,205 - INFO - Sale order created for as due to low stock
+2024-01-09 05:05:12,205 - INFO - Low stock levels checked successfully
+2024-01-09 05:05:12,205 - INFO - Products loaded successfully
+2024-01-09 05:05:16,336 - ERROR - Error deleting product: 'ProductManagementApp' object has no attribute 'get_product_by_id'
+2024-01-09 05:05:27,659 - ERROR - Error deleting product: 'ProductManagementApp' object has no attribute 'get_product_by_id'
+2024-01-09 05:05:37,411 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:05:37,584 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:05:37,760 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:05:38,398 - INFO - Sale order created for as due to low stock
+2024-01-09 05:05:38,398 - INFO - Low stock levels checked successfully
+2024-01-09 05:05:38,398 - INFO - Products loaded successfully
+2024-01-09 05:07:18,633 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:07:19,063 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:07:19,238 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:07:19,422 - INFO - Sale order created for as due to low stock
+2024-01-09 05:07:19,422 - INFO - Low stock levels checked successfully
+2024-01-09 05:07:19,422 - INFO - Products loaded successfully
+2024-01-09 05:08:59,935 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:09:00,109 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:09:00,275 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:09:00,764 - INFO - Sale order created for as due to low stock
+2024-01-09 05:09:00,764 - INFO - Low stock levels checked successfully
+2024-01-09 05:09:00,764 - INFO - Products loaded successfully
+2024-01-09 05:09:05,954 - ERROR - Error deleting product: 'ProductManagementApp' object has no attribute 'get_product_by_id'
+2024-01-09 05:09:06,977 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:09:07,831 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:09:08,602 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:09:09,362 - INFO - Sale order created for as due to low stock
+2024-01-09 05:09:09,362 - INFO - Low stock levels checked successfully
+2024-01-09 05:09:09,362 - INFO - Products loaded successfully
+2024-01-09 05:09:12,138 - ERROR - Error deleting product: 'ProductManagementApp' object has no attribute 'get_product_by_id'
+2024-01-09 05:09:13,232 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:09:13,408 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:09:13,589 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:09:14,149 - INFO - Sale order created for as due to low stock
+2024-01-09 05:09:14,149 - INFO - Low stock levels checked successfully
+2024-01-09 05:09:14,149 - INFO - Products loaded successfully
+2024-01-09 05:10:10,480 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:10:10,682 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:10:10,889 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:10:11,351 - INFO - Sale order created for as due to low stock
+2024-01-09 05:10:11,351 - INFO - Low stock levels checked successfully
+2024-01-09 05:10:11,351 - INFO - Products loaded successfully
+2024-01-09 05:10:15,825 - ERROR - Error deleting product: 'ProductManagementApp' object has no attribute 'get_product_by_id'
+2024-01-09 05:10:24,882 - ERROR - Error deleting product: 'ProductManagementApp' object has no attribute 'get_product_by_id'
+2024-01-09 05:16:48,293 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:16:48,671 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:16:48,870 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:16:49,394 - INFO - Sale order created for as due to low stock
+2024-01-09 05:16:49,395 - INFO - Low stock levels checked successfully
+2024-01-09 05:16:49,395 - INFO - Products loaded successfully
+2024-01-09 05:30:52,672 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:30:53,050 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:30:53,212 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:30:53,394 - INFO - Sale order created for as due to low stock
+2024-01-09 05:30:53,394 - INFO - Low stock levels checked successfully
+2024-01-09 05:30:53,394 - INFO - Products loaded successfully
+2024-01-09 05:31:13,249 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:31:13,436 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:31:13,634 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:31:14,152 - INFO - Sale order created for as due to low stock
+2024-01-09 05:31:14,152 - INFO - Low stock levels checked successfully
+2024-01-09 05:31:14,152 - INFO - Products loaded successfully
+2024-01-09 05:37:15,702 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:37:16,322 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:37:16,727 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:37:17,242 - INFO - Sale order created for as due to low stock
+2024-01-09 05:37:17,242 - INFO - Low stock levels checked successfully
+2024-01-09 05:37:17,242 - INFO - Products loaded successfully
+2024-01-09 05:39:11,272 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:39:11,728 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:39:12,117 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:39:12,557 - INFO - Sale order created for as due to low stock
+2024-01-09 05:39:12,557 - INFO - Low stock levels checked successfully
+2024-01-09 05:39:12,557 - INFO - Products loaded successfully
+2024-01-09 05:40:11,237 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:40:11,675 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:40:12,032 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:40:12,459 - INFO - Sale order created for as due to low stock
+2024-01-09 05:40:12,459 - INFO - Low stock levels checked successfully
+2024-01-09 05:40:12,459 - INFO - Products loaded successfully
+2024-01-09 05:40:36,825 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:40:37,011 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:40:37,205 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:40:37,682 - INFO - Sale order created for as due to low stock
+2024-01-09 05:40:37,682 - INFO - Low stock levels checked successfully
+2024-01-09 05:40:37,682 - INFO - Products loaded successfully
+2024-01-09 05:40:51,142 - ERROR - Error deleting product: 'ProductManagementApp' object has no attribute 'get_product_by_id'
+2024-01-09 05:40:54,655 - ERROR - Error deleting product: 'ProductManagementApp' object has no attribute 'get_product_by_id'
+2024-01-09 05:43:34,249 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:43:34,427 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:43:34,624 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:43:35,116 - INFO - Sale order created for as due to low stock
+2024-01-09 05:43:35,117 - INFO - Low stock levels checked successfully
+2024-01-09 05:43:35,117 - INFO - Products loaded successfully
+2024-01-09 05:43:46,000 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 05:44:42,033 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:44:43,052 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:44:43,418 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:44:43,563 - INFO - Sale order created for as due to low stock
+2024-01-09 05:44:43,563 - INFO - Low stock levels checked successfully
+2024-01-09 05:44:43,563 - INFO - Products loaded successfully
+2024-01-09 05:45:56,814 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:45:56,990 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:45:57,160 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:45:57,325 - INFO - Sale order created for as due to low stock
+2024-01-09 05:45:57,325 - INFO - Low stock levels checked successfully
+2024-01-09 05:45:57,325 - INFO - Products loaded successfully
+2024-01-09 05:46:02,815 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 05:46:10,880 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 05:46:19,758 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 05:46:35,223 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:46:35,392 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:46:35,565 - INFO - Sale order created for as due to low stock
+2024-01-09 05:46:35,649 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:46:36,167 - INFO - Sale order created for xxxx due to low stock
+2024-01-09 05:46:36,168 - INFO - Low stock levels checked successfully
+2024-01-09 05:46:36,168 - INFO - Products loaded successfully
+2024-01-09 05:46:46,112 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 05:46:56,669 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:46:56,849 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:46:57,024 - INFO - Sale order created for as due to low stock
+2024-01-09 05:46:57,525 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:46:58,263 - INFO - Sale order created for xxxx due to low stock
+2024-01-09 05:46:58,263 - INFO - Low stock levels checked successfully
+2024-01-09 05:46:58,263 - INFO - Products loaded successfully
+2024-01-09 05:47:40,847 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:47:41,007 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:47:41,193 - INFO - Sale order created for as due to low stock
+2024-01-09 05:47:41,692 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:47:42,134 - INFO - Sale order created for xxxx due to low stock
+2024-01-09 05:47:42,134 - INFO - Low stock levels checked successfully
+2024-01-09 05:47:42,134 - INFO - Products loaded successfully
+2024-01-09 05:49:19,752 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:49:19,913 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:49:20,095 - INFO - Sale order created for as due to low stock
+2024-01-09 05:49:20,575 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:49:21,032 - INFO - Sale order created for xxxx due to low stock
+2024-01-09 05:49:21,032 - INFO - Low stock levels checked successfully
+2024-01-09 05:49:21,032 - INFO - Products loaded successfully
+2024-01-09 05:51:44,187 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:51:44,341 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:51:44,501 - INFO - Sale order created for as due to low stock
+2024-01-09 05:51:44,965 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:51:45,368 - INFO - Sale order created for xxxx due to low stock
+2024-01-09 05:51:45,368 - INFO - Low stock levels checked successfully
+2024-01-09 05:51:45,368 - INFO - Products loaded successfully
+2024-01-09 05:52:30,505 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:52:30,684 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:52:30,838 - INFO - Sale order created for as due to low stock
+2024-01-09 05:52:30,997 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:52:31,450 - INFO - Sale order created for xxxx due to low stock
+2024-01-09 05:52:31,451 - INFO - Low stock levels checked successfully
+2024-01-09 05:52:31,451 - INFO - Products loaded successfully
+2024-01-09 05:53:01,781 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:53:01,975 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:53:02,118 - INFO - Sale order created for as due to low stock
+2024-01-09 05:53:02,281 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:53:02,685 - INFO - Sale order created for xxxx due to low stock
+2024-01-09 05:53:02,685 - INFO - Low stock levels checked successfully
+2024-01-09 05:53:02,685 - INFO - Products loaded successfully
+2024-01-09 05:53:38,564 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:53:38,712 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:53:38,918 - INFO - Sale order created for as due to low stock
+2024-01-09 05:53:39,384 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:53:39,836 - INFO - Sale order created for xxxx due to low stock
+2024-01-09 05:53:39,836 - INFO - Low stock levels checked successfully
+2024-01-09 05:53:39,836 - INFO - Products loaded successfully
+2024-01-09 05:53:50,965 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:53:51,148 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:53:51,304 - INFO - Sale order created for as due to low stock
+2024-01-09 05:53:51,839 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:53:52,760 - INFO - Sale order created for xxxx due to low stock
+2024-01-09 05:53:52,761 - INFO - Low stock levels checked successfully
+2024-01-09 05:53:52,761 - INFO - Products loaded successfully
+2024-01-09 05:53:54,952 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 05:54:01,597 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:54:01,757 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:54:01,933 - INFO - Sale order created for as due to low stock
+2024-01-09 05:54:02,442 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:54:02,886 - INFO - Sale order created for xxxx due to low stock
+2024-01-09 05:54:02,886 - INFO - Low stock levels checked successfully
+2024-01-09 05:54:02,886 - INFO - Products loaded successfully
+2024-01-09 05:54:11,158 - INFO - Sale order created for aga due to low stock
+2024-01-09 05:54:12,391 - INFO - Sale order created for asdasd due to low stock
+2024-01-09 05:54:12,549 - INFO - Sale order created for as due to low stock
+2024-01-09 05:54:12,700 - INFO - Sale order created for gg due to low stock
+2024-01-09 05:54:13,479 - INFO - Sale order created for xxxx due to low stock
+2024-01-09 05:54:13,479 - INFO - Low stock levels checked successfully
+2024-01-09 05:54:13,479 - INFO - Products loaded successfully
+2024-01-09 05:56:36,845 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 05:56:36,845 - INFO - Products loaded successfully
+2024-01-09 05:56:41,288 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 05:56:48,073 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 05:56:48,073 - INFO - Products loaded successfully
+2024-01-09 05:56:53,302 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 05:56:57,911 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 05:56:57,911 - INFO - Products loaded successfully
+2024-01-09 05:58:17,253 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 05:58:17,253 - INFO - Products loaded successfully
+2024-01-09 05:58:21,953 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 05:58:28,391 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 05:58:28,391 - INFO - Products loaded successfully
+2024-01-09 05:58:38,953 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 05:58:38,953 - INFO - Products loaded successfully
+2024-01-09 06:06:34,726 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:06:34,726 - INFO - Products loaded successfully
+2024-01-09 06:08:49,039 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:08:49,039 - INFO - Products loaded successfully
+2024-01-09 06:09:00,465 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:09:00,465 - INFO - Products loaded successfully
+2024-01-09 06:09:21,024 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:09:21,024 - INFO - Products loaded successfully
+2024-01-09 06:11:02,317 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:11:02,317 - INFO - Products loaded successfully
+2024-01-09 06:11:14,299 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:11:14,299 - INFO - Products loaded successfully
+2024-01-09 06:13:40,907 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:13:40,908 - INFO - Products loaded successfully
+2024-01-09 06:13:52,379 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:13:52,379 - INFO - Products loaded successfully
+2024-01-09 06:29:50,867 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:29:50,868 - INFO - Products loaded successfully
+2024-01-09 06:32:34,526 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:32:34,526 - INFO - Products loaded successfully
+2024-01-09 06:32:46,284 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:32:46,284 - INFO - Products loaded successfully
+2024-01-09 06:36:21,647 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:36:21,647 - INFO - Products loaded successfully
+2024-01-09 06:41:29,765 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:41:29,766 - INFO - Products loaded successfully
+2024-01-09 06:41:41,272 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:41:41,272 - INFO - Products loaded successfully
+2024-01-09 06:47:59,665 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:47:59,665 - INFO - Products loaded successfully
+2024-01-09 06:52:44,556 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:52:44,556 - INFO - Products loaded successfully
+2024-01-09 06:53:41,518 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 06:53:41,518 - INFO - Products loaded successfully
+2024-01-09 07:08:03,671 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:08:03,671 - INFO - Products loaded successfully
+2024-01-09 07:08:08,810 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 07:08:15,427 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:08:15,427 - INFO - Products loaded successfully
+2024-01-09 07:11:42,477 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:11:42,477 - INFO - Products loaded successfully
+2024-01-09 07:11:45,693 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 07:11:53,841 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:11:53,841 - INFO - Products loaded successfully
+2024-01-09 07:16:46,709 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:16:46,709 - INFO - Products loaded successfully
+2024-01-09 07:16:50,984 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 07:16:54,221 - INFO - Viewing sales history.
+2024-01-09 07:16:54,255 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:16:55,072 - INFO - Viewing sales history.
+2024-01-09 07:16:55,205 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:16:55,281 - INFO - Viewing sales history.
+2024-01-09 07:16:55,315 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:16:55,429 - INFO - Viewing sales history.
+2024-01-09 07:16:55,462 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:16:58,084 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:16:58,084 - INFO - Products loaded successfully
+2024-01-09 07:16:58,736 - INFO - Viewing sales history.
+2024-01-09 07:16:58,770 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:16:58,918 - INFO - Viewing sales history.
+2024-01-09 07:16:58,952 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:17:06,345 - INFO - Viewing sales history.
+2024-01-09 07:17:06,379 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:17:06,479 - INFO - Viewing sales history.
+2024-01-09 07:17:06,513 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:17:07,599 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:17:07,600 - INFO - Products loaded successfully
+2024-01-09 07:17:21,122 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:17:21,122 - INFO - Products loaded successfully
+2024-01-09 07:24:02,602 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:24:02,602 - INFO - Products loaded successfully
+2024-01-09 07:24:07,390 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 07:24:10,987 - INFO - Viewing sales history.
+2024-01-09 07:24:11,020 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:24:11,373 - INFO - Viewing sales history.
+2024-01-09 07:24:11,407 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:24:11,549 - INFO - Viewing sales history.
+2024-01-09 07:24:11,583 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:24:11,715 - INFO - Viewing sales history.
+2024-01-09 07:24:11,750 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:24:11,885 - INFO - Viewing sales history.
+2024-01-09 07:24:11,919 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:24:12,038 - INFO - Viewing sales history.
+2024-01-09 07:24:12,071 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:24:12,199 - INFO - Viewing sales history.
+2024-01-09 07:24:12,233 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:24:12,371 - INFO - Viewing sales history.
+2024-01-09 07:24:12,407 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:24:12,546 - INFO - Viewing sales history.
+2024-01-09 07:24:12,579 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:24:13,834 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:24:13,834 - INFO - Products loaded successfully
+2024-01-09 07:24:18,423 - INFO - Viewing sales history.
+2024-01-09 07:24:18,457 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 07:24:23,672 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:24:23,672 - INFO - Products loaded successfully
+2024-01-09 07:24:49,840 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:24:49,840 - INFO - Products loaded successfully
+2024-01-09 07:24:59,416 - ERROR - Error deleting product: 'ProductManagementApp' object has no attribute 'get_product_by_id'
+2024-01-09 07:25:01,428 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:25:01,428 - INFO - Products loaded successfully
+2024-01-09 07:25:11,198 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:25:11,198 - INFO - Products loaded successfully
+2024-01-09 07:25:22,035 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:25:22,035 - INFO - Products loaded successfully
+2024-01-09 07:25:32,051 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:25:32,051 - INFO - Products loaded successfully
+2024-01-09 07:28:56,134 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:28:56,134 - INFO - Products loaded successfully
+2024-01-09 07:28:59,391 - ERROR - Error deleting product: 'ProductManagementApp' object has no attribute 'get_product_by_id'
+2024-01-09 07:29:07,239 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:29:07,239 - INFO - Products loaded successfully
+2024-01-09 07:29:14,490 - ERROR - Error deleting product: 'ProductManagementApp' object has no attribute 'get_product_by_id'
+2024-01-09 07:29:17,668 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_sale_order'
+2024-01-09 07:29:17,669 - INFO - Products loaded successfully
+2024-01-09 07:33:43,557 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+2024-01-09 07:33:43,557 - INFO - Products loaded successfully
+2024-01-09 07:33:47,327 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(7) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 07:33:55,083 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+2024-01-09 07:33:55,083 - INFO - Products loaded successfully
+2024-01-09 07:36:22,360 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+2024-01-09 07:36:22,360 - INFO - Products loaded successfully
+2024-01-09 07:36:27,009 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(5) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 07:36:33,676 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+2024-01-09 07:36:33,676 - INFO - Products loaded successfully
+2024-01-09 08:15:11,255 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+2024-01-09 08:15:11,256 - INFO - Products loaded successfully
+2024-01-09 08:15:22,636 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+2024-01-09 08:15:22,636 - INFO - Products loaded successfully
+2024-01-09 08:15:32,497 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+2024-01-09 08:15:32,497 - INFO - Products loaded successfully
+2024-01-09 08:15:35,633 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(2) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 08:15:42,438 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+2024-01-09 08:15:42,438 - INFO - Products loaded successfully
+2024-01-09 08:23:20,734 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+2024-01-09 08:23:20,734 - INFO - Products loaded successfully
+2024-01-09 08:29:22,205 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+2024-01-09 08:29:22,205 - INFO - Products loaded successfully
+2024-01-09 08:29:25,489 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(7) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 08:31:58,865 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+2024-01-09 08:31:58,865 - INFO - Products loaded successfully
+2024-01-09 08:32:02,452 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(5) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 08:32:10,870 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'create_order'
+2024-01-09 08:32:10,871 - INFO - Products loaded successfully
+2024-01-09 08:38:21,077 - ERROR - Error checking low stock levels: create_order() missing 1 required positional argument: 'quantity_to_order'
+2024-01-09 08:38:21,077 - INFO - Products loaded successfully
+2024-01-09 08:38:28,244 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 08:38:33,954 - ERROR - Error checking low stock levels: create_order() missing 1 required positional argument: 'quantity_to_order'
+2024-01-09 08:38:33,954 - INFO - Products loaded successfully
+2024-01-09 08:38:42,476 - ERROR - Error checking low stock levels: create_order() missing 1 required positional argument: 'quantity_to_order'
+2024-01-09 08:38:42,476 - INFO - Products loaded successfully
+2024-01-09 08:38:52,732 - ERROR - Error checking low stock levels: create_order() missing 1 required positional argument: 'quantity_to_order'
+2024-01-09 08:38:52,732 - INFO - Products loaded successfully
+2024-01-09 08:39:02,140 - ERROR - Error checking low stock levels: create_order() missing 1 required positional argument: 'quantity_to_order'
+2024-01-09 08:39:02,140 - INFO - Products loaded successfully
+2024-01-09 08:40:53,308 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 08:40:53,308 - INFO - Products loaded successfully
+2024-01-09 08:40:58,171 - ERROR - Error deleting product: HATA:  "products" tablosu üzerinde yapýlan update veya delete iþlemi "inventory_history" tablosunun "inventory_history_product_id_fkey" bütünlük kýsýtlamasýný ihlal ediyor
+DETAIL:  (product_id)=(4) anahtarý "inventory_history" tablosundan hala referans edilmektedir.
+
+2024-01-09 08:42:45,843 - ERROR - Error checking low stock levels: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 08:42:45,844 - INFO - Products loaded successfully
+2024-01-09 08:43:41,005 - INFO - Stock updated for product ID 4. New quantity: 18
+2024-01-09 08:43:41,005 - INFO - Sales order created for "aga" - Quantity: 10, Total: 1230.00
+2024-01-09 08:43:42,077 - INFO - Stock updated for product ID 6. New quantity: 18
+2024-01-09 08:43:42,077 - INFO - Sales order created for "asdasd" - Quantity: 10, Total: 120.00
+2024-01-09 08:43:42,547 - INFO - Stock updated for product ID 3. New quantity: 17
+2024-01-09 08:43:42,547 - INFO - Sales order created for "as" - Quantity: 10, Total: 4560.00
+2024-01-09 08:43:43,069 - INFO - Stock updated for product ID 5. New quantity: 18
+2024-01-09 08:43:43,069 - INFO - Sales order created for "xxxx" - Quantity: 10, Total: 5000.00
+2024-01-09 08:43:43,566 - INFO - Stock updated for product ID 7. New quantity: 16
+2024-01-09 08:43:43,566 - INFO - Sales order created for "gg" - Quantity: 10, Total: 320.00
+2024-01-09 08:43:43,600 - INFO - Low stock levels checked successfully
+2024-01-09 08:43:43,600 - INFO - Products loaded successfully
+2024-01-09 08:43:44,036 - INFO - Low stock levels checked successfully
+2024-01-09 08:43:44,036 - INFO - Products loaded successfully
+2024-01-09 08:43:46,017 - INFO - Stock updated for product ID 7. New quantity: 16
+2024-01-09 08:43:46,017 - INFO - Sales order created for "gg" - Quantity: 10, Total: 320.00
+2024-01-09 08:43:46,052 - INFO - Low stock levels checked successfully
+2024-01-09 08:43:46,052 - INFO - Products loaded successfully
+2024-01-09 08:43:46,609 - INFO - Low stock levels checked successfully
+2024-01-09 08:43:46,609 - INFO - Products loaded successfully
+2024-01-09 08:43:47,688 - INFO - Stock updated for product ID 5. New quantity: 18
+2024-01-09 08:43:47,688 - INFO - Sales order created for "xxxx" - Quantity: 10, Total: 5000.00
+2024-01-09 08:43:47,723 - INFO - Low stock levels checked successfully
+2024-01-09 08:43:47,723 - INFO - Products loaded successfully
+2024-01-09 08:43:49,165 - INFO - Stock updated for product ID 7. New quantity: 16
+2024-01-09 08:43:49,166 - INFO - Sales order created for "gg" - Quantity: 10, Total: 320.00
+2024-01-09 08:43:49,199 - INFO - Low stock levels checked successfully
+2024-01-09 08:43:49,199 - INFO - Products loaded successfully
+2024-01-09 08:43:49,994 - INFO - Low stock levels checked successfully
+2024-01-09 08:43:49,994 - INFO - Products loaded successfully
+2024-01-09 08:43:51,627 - INFO - Stock updated for product ID 3. New quantity: 17
+2024-01-09 08:43:51,628 - INFO - Sales order created for "as" - Quantity: 10, Total: 4560.00
+2024-01-09 08:43:51,660 - INFO - Low stock levels checked successfully
+2024-01-09 08:43:51,660 - INFO - Products loaded successfully
+2024-01-09 08:43:52,344 - INFO - Stock updated for product ID 5. New quantity: 18
+2024-01-09 08:43:52,344 - INFO - Sales order created for "xxxx" - Quantity: 10, Total: 5000.00
+2024-01-09 08:43:52,376 - INFO - Low stock levels checked successfully
+2024-01-09 08:43:52,376 - INFO - Products loaded successfully
+2024-01-09 08:43:53,665 - INFO - Stock updated for product ID 7. New quantity: 16
+2024-01-09 08:43:53,665 - INFO - Sales order created for "gg" - Quantity: 10, Total: 320.00
+2024-01-09 08:43:53,698 - INFO - Low stock levels checked successfully
+2024-01-09 08:43:53,698 - INFO - Products loaded successfully
+2024-01-09 08:46:36,440 - INFO - Low stock levels checked successfully
+2024-01-09 08:46:36,440 - INFO - Products loaded successfully
+2024-01-09 08:46:46,467 - INFO - Low stock levels checked successfully
+2024-01-09 08:46:46,467 - INFO - Products loaded successfully
+2024-01-09 08:46:48,966 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 08:46:57,600 - INFO - Stock quantity for product ID 7 updated to 16
+2024-01-09 08:46:57,600 - INFO - Sales order created for "gg" - Quantity: 10, Total: 320.00
+2024-01-09 08:46:57,633 - INFO - Low stock levels checked successfully
+2024-01-09 08:46:57,633 - INFO - Products loaded successfully
+2024-01-09 08:46:58,774 - INFO - Low stock levels checked successfully
+2024-01-09 08:46:58,774 - INFO - Products loaded successfully
+2024-01-09 08:55:57,527 - INFO - Low stock levels checked successfully
+2024-01-09 08:55:57,528 - INFO - Products loaded successfully
+2024-01-09 08:56:07,569 - INFO - Low stock levels checked successfully
+2024-01-09 08:56:07,570 - INFO - Products loaded successfully
+2024-01-09 08:56:17,578 - INFO - Low stock levels checked successfully
+2024-01-09 08:56:17,579 - INFO - Products loaded successfully
+2024-01-09 08:56:21,495 - INFO - Product updated successfully
+2024-01-09 08:56:21,530 - INFO - Low stock levels checked successfully
+2024-01-09 08:56:21,530 - INFO - Products loaded successfully
+2024-01-09 08:56:27,570 - INFO - Low stock levels checked successfully
+2024-01-09 08:56:27,570 - INFO - Products loaded successfully
+2024-01-09 08:56:29,246 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 08:56:37,576 - INFO - Low stock levels checked successfully
+2024-01-09 08:56:37,576 - INFO - Products loaded successfully
+2024-01-09 08:56:47,599 - INFO - Low stock levels checked successfully
+2024-01-09 08:56:47,599 - INFO - Products loaded successfully
+2024-01-09 08:56:56,072 - INFO - Generating sales report.
+2024-01-09 08:56:57,691 - INFO - Low stock levels checked successfully
+2024-01-09 08:56:57,691 - INFO - Products loaded successfully
+2024-01-09 08:57:00,218 - INFO - Viewing sales history.
+2024-01-09 08:57:00,275 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 08:57:01,027 - INFO - Viewing sales history.
+2024-01-09 08:57:01,061 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 08:57:01,209 - INFO - Viewing sales history.
+2024-01-09 08:57:01,244 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 08:57:07,596 - INFO - Low stock levels checked successfully
+2024-01-09 08:57:07,597 - INFO - Products loaded successfully
+2024-01-09 08:57:17,601 - INFO - Low stock levels checked successfully
+2024-01-09 08:57:17,601 - INFO - Products loaded successfully
+2024-01-09 08:57:27,607 - INFO - Low stock levels checked successfully
+2024-01-09 08:57:27,608 - INFO - Products loaded successfully
+2024-01-09 08:57:37,621 - INFO - Low stock levels checked successfully
+2024-01-09 08:57:37,621 - INFO - Products loaded successfully
+2024-01-09 08:57:47,633 - INFO - Low stock levels checked successfully
+2024-01-09 08:57:47,633 - INFO - Products loaded successfully
+2024-01-09 08:57:57,641 - INFO - Low stock levels checked successfully
+2024-01-09 08:57:57,641 - INFO - Products loaded successfully
+2024-01-09 08:58:07,658 - INFO - Low stock levels checked successfully
+2024-01-09 08:58:07,658 - INFO - Products loaded successfully
+2024-01-09 08:58:17,667 - INFO - Low stock levels checked successfully
+2024-01-09 08:58:17,667 - INFO - Products loaded successfully
+2024-01-09 08:58:27,668 - INFO - Low stock levels checked successfully
+2024-01-09 08:58:27,668 - INFO - Products loaded successfully
+2024-01-09 08:58:37,675 - INFO - Low stock levels checked successfully
+2024-01-09 08:58:37,675 - INFO - Products loaded successfully
+2024-01-09 08:58:47,680 - INFO - Low stock levels checked successfully
+2024-01-09 08:58:47,680 - INFO - Products loaded successfully
+2024-01-09 08:58:57,695 - INFO - Low stock levels checked successfully
+2024-01-09 08:58:57,695 - INFO - Products loaded successfully
+2024-01-09 08:59:07,685 - INFO - Low stock levels checked successfully
+2024-01-09 08:59:07,685 - INFO - Products loaded successfully
+2024-01-09 08:59:17,793 - INFO - Low stock levels checked successfully
+2024-01-09 08:59:17,793 - INFO - Products loaded successfully
+2024-01-09 08:59:27,682 - INFO - Low stock levels checked successfully
+2024-01-09 08:59:27,682 - INFO - Products loaded successfully
+2024-01-09 08:59:37,702 - INFO - Low stock levels checked successfully
+2024-01-09 08:59:37,702 - INFO - Products loaded successfully
+2024-01-09 08:59:47,717 - INFO - Low stock levels checked successfully
+2024-01-09 08:59:47,717 - INFO - Products loaded successfully
+2024-01-09 08:59:57,731 - INFO - Low stock levels checked successfully
+2024-01-09 08:59:57,731 - INFO - Products loaded successfully
+2024-01-09 09:00:07,753 - INFO - Low stock levels checked successfully
+2024-01-09 09:00:07,753 - INFO - Products loaded successfully
+2024-01-09 09:00:17,743 - INFO - Low stock levels checked successfully
+2024-01-09 09:00:17,743 - INFO - Products loaded successfully
+2024-01-09 09:00:27,761 - INFO - Low stock levels checked successfully
+2024-01-09 09:00:27,762 - INFO - Products loaded successfully
+2024-01-09 09:00:37,771 - INFO - Low stock levels checked successfully
+2024-01-09 09:00:37,771 - INFO - Products loaded successfully
+2024-01-09 09:00:47,785 - INFO - Low stock levels checked successfully
+2024-01-09 09:00:47,785 - INFO - Products loaded successfully
+2024-01-09 09:00:57,790 - INFO - Low stock levels checked successfully
+2024-01-09 09:00:57,790 - INFO - Products loaded successfully
+2024-01-09 09:01:07,811 - INFO - Low stock levels checked successfully
+2024-01-09 09:01:07,811 - INFO - Products loaded successfully
+2024-01-09 09:01:17,826 - INFO - Low stock levels checked successfully
+2024-01-09 09:01:17,826 - INFO - Products loaded successfully
+2024-01-09 09:01:27,812 - INFO - Low stock levels checked successfully
+2024-01-09 09:01:27,812 - INFO - Products loaded successfully
+2024-01-09 09:01:37,816 - INFO - Low stock levels checked successfully
+2024-01-09 09:01:37,816 - INFO - Products loaded successfully
+2024-01-09 09:01:47,831 - INFO - Low stock levels checked successfully
+2024-01-09 09:01:47,831 - INFO - Products loaded successfully
+2024-01-09 09:01:57,836 - INFO - Low stock levels checked successfully
+2024-01-09 09:01:57,836 - INFO - Products loaded successfully
+2024-01-09 09:02:07,857 - INFO - Low stock levels checked successfully
+2024-01-09 09:02:07,857 - INFO - Products loaded successfully
+2024-01-09 09:02:17,868 - INFO - Low stock levels checked successfully
+2024-01-09 09:02:17,868 - INFO - Products loaded successfully
+2024-01-09 09:02:27,889 - INFO - Low stock levels checked successfully
+2024-01-09 09:02:27,889 - INFO - Products loaded successfully
+2024-01-09 09:02:37,898 - INFO - Low stock levels checked successfully
+2024-01-09 09:02:37,898 - INFO - Products loaded successfully
+2024-01-09 09:02:47,908 - INFO - Low stock levels checked successfully
+2024-01-09 09:02:47,908 - INFO - Products loaded successfully
+2024-01-09 09:02:57,912 - INFO - Low stock levels checked successfully
+2024-01-09 09:02:57,912 - INFO - Products loaded successfully
+2024-01-09 09:03:07,933 - INFO - Low stock levels checked successfully
+2024-01-09 09:03:07,933 - INFO - Products loaded successfully
+2024-01-09 09:03:17,947 - INFO - Low stock levels checked successfully
+2024-01-09 09:03:17,947 - INFO - Products loaded successfully
+2024-01-09 09:03:27,960 - INFO - Low stock levels checked successfully
+2024-01-09 09:03:27,960 - INFO - Products loaded successfully
+2024-01-09 09:03:37,985 - INFO - Low stock levels checked successfully
+2024-01-09 09:03:37,985 - INFO - Products loaded successfully
+2024-01-09 09:03:47,990 - INFO - Low stock levels checked successfully
+2024-01-09 09:03:47,990 - INFO - Products loaded successfully
+2024-01-09 09:03:58,014 - INFO - Low stock levels checked successfully
+2024-01-09 09:03:58,014 - INFO - Products loaded successfully
+2024-01-09 09:04:08,029 - INFO - Low stock levels checked successfully
+2024-01-09 09:04:08,029 - INFO - Products loaded successfully
+2024-01-09 09:04:18,044 - INFO - Low stock levels checked successfully
+2024-01-09 09:04:18,044 - INFO - Products loaded successfully
+2024-01-09 09:04:28,055 - INFO - Low stock levels checked successfully
+2024-01-09 09:04:28,055 - INFO - Products loaded successfully
+2024-01-09 09:04:38,066 - INFO - Low stock levels checked successfully
+2024-01-09 09:04:38,066 - INFO - Products loaded successfully
+2024-01-09 09:04:48,055 - INFO - Low stock levels checked successfully
+2024-01-09 09:04:48,056 - INFO - Products loaded successfully
+2024-01-09 09:04:58,056 - INFO - Low stock levels checked successfully
+2024-01-09 09:04:58,056 - INFO - Products loaded successfully
+2024-01-09 09:05:08,071 - INFO - Low stock levels checked successfully
+2024-01-09 09:05:08,072 - INFO - Products loaded successfully
+2024-01-09 09:05:18,089 - INFO - Low stock levels checked successfully
+2024-01-09 09:05:18,089 - INFO - Products loaded successfully
+2024-01-09 09:05:28,088 - INFO - Low stock levels checked successfully
+2024-01-09 09:05:28,088 - INFO - Products loaded successfully
+2024-01-09 09:05:38,104 - INFO - Low stock levels checked successfully
+2024-01-09 09:05:38,104 - INFO - Products loaded successfully
+2024-01-09 09:05:48,104 - INFO - Low stock levels checked successfully
+2024-01-09 09:05:48,104 - INFO - Products loaded successfully
+2024-01-09 09:05:58,115 - INFO - Low stock levels checked successfully
+2024-01-09 09:05:58,115 - INFO - Products loaded successfully
+2024-01-09 09:06:08,103 - INFO - Low stock levels checked successfully
+2024-01-09 09:06:08,103 - INFO - Products loaded successfully
+2024-01-09 09:06:18,106 - INFO - Low stock levels checked successfully
+2024-01-09 09:06:18,106 - INFO - Products loaded successfully
+2024-01-09 09:06:28,109 - INFO - Low stock levels checked successfully
+2024-01-09 09:06:28,109 - INFO - Products loaded successfully
+2024-01-09 09:06:38,120 - INFO - Low stock levels checked successfully
+2024-01-09 09:06:38,120 - INFO - Products loaded successfully
+2024-01-09 09:06:48,104 - INFO - Low stock levels checked successfully
+2024-01-09 09:06:48,104 - INFO - Products loaded successfully
+2024-01-09 09:06:58,127 - INFO - Low stock levels checked successfully
+2024-01-09 09:06:58,127 - INFO - Products loaded successfully
+2024-01-09 09:07:08,136 - INFO - Low stock levels checked successfully
+2024-01-09 09:07:08,136 - INFO - Products loaded successfully
+2024-01-09 09:07:18,135 - INFO - Low stock levels checked successfully
+2024-01-09 09:07:18,135 - INFO - Products loaded successfully
+2024-01-09 09:07:28,260 - INFO - Low stock levels checked successfully
+2024-01-09 09:07:28,260 - INFO - Products loaded successfully
+2024-01-09 09:07:38,159 - INFO - Low stock levels checked successfully
+2024-01-09 09:07:38,159 - INFO - Products loaded successfully
+2024-01-09 09:07:48,173 - INFO - Low stock levels checked successfully
+2024-01-09 09:07:48,173 - INFO - Products loaded successfully
+2024-01-09 09:07:58,178 - INFO - Low stock levels checked successfully
+2024-01-09 09:07:58,178 - INFO - Products loaded successfully
+2024-01-09 09:08:08,196 - INFO - Low stock levels checked successfully
+2024-01-09 09:08:08,196 - INFO - Products loaded successfully
+2024-01-09 09:08:18,211 - INFO - Low stock levels checked successfully
+2024-01-09 09:08:18,211 - INFO - Products loaded successfully
+2024-01-09 09:08:28,210 - INFO - Low stock levels checked successfully
+2024-01-09 09:08:28,210 - INFO - Products loaded successfully
+2024-01-09 09:08:38,212 - INFO - Low stock levels checked successfully
+2024-01-09 09:08:38,212 - INFO - Products loaded successfully
+2024-01-09 09:08:48,220 - INFO - Low stock levels checked successfully
+2024-01-09 09:08:48,220 - INFO - Products loaded successfully
+2024-01-09 09:08:58,227 - INFO - Low stock levels checked successfully
+2024-01-09 09:08:58,227 - INFO - Products loaded successfully
+2024-01-09 09:09:08,238 - INFO - Low stock levels checked successfully
+2024-01-09 09:09:08,238 - INFO - Products loaded successfully
+2024-01-09 09:09:18,227 - INFO - Low stock levels checked successfully
+2024-01-09 09:09:18,227 - INFO - Products loaded successfully
+2024-01-09 09:09:28,240 - INFO - Low stock levels checked successfully
+2024-01-09 09:09:28,240 - INFO - Products loaded successfully
+2024-01-09 09:09:38,241 - INFO - Low stock levels checked successfully
+2024-01-09 09:09:38,241 - INFO - Products loaded successfully
+2024-01-09 09:09:48,253 - INFO - Low stock levels checked successfully
+2024-01-09 09:09:48,253 - INFO - Products loaded successfully
+2024-01-09 09:09:58,273 - INFO - Low stock levels checked successfully
+2024-01-09 09:09:58,273 - INFO - Products loaded successfully
+2024-01-09 09:10:08,283 - INFO - Low stock levels checked successfully
+2024-01-09 09:10:08,283 - INFO - Products loaded successfully
+2024-01-09 09:10:18,278 - INFO - Low stock levels checked successfully
+2024-01-09 09:10:18,278 - INFO - Products loaded successfully
+2024-01-09 15:22:51,143 - INFO - Low stock levels checked successfully
+2024-01-09 15:22:51,144 - INFO - Products loaded successfully
+2024-01-09 15:22:59,704 - INFO - Generating sales report.
+2024-01-09 15:23:01,173 - INFO - Low stock levels checked successfully
+2024-01-09 15:23:01,173 - INFO - Products loaded successfully
+2024-01-09 15:23:11,185 - INFO - Low stock levels checked successfully
+2024-01-09 15:23:11,185 - INFO - Products loaded successfully
+2024-01-09 15:23:11,760 - ERROR - Error generating restocking suggestions: HATA:  "product_name" sütunu mevcut deðil
+LINE 1: SELECT product_name, quantity FROM products WHERE quantity <...
+               ^
+
+2024-01-09 15:23:21,191 - INFO - Low stock levels checked successfully
+2024-01-09 15:23:21,191 - INFO - Products loaded successfully
+2024-01-09 15:29:04,848 - INFO - Low stock levels checked successfully
+2024-01-09 15:29:04,848 - INFO - Products loaded successfully
+2024-01-09 15:29:13,429 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 15:29:14,883 - INFO - Low stock levels checked successfully
+2024-01-09 15:29:14,883 - INFO - Products loaded successfully
+2024-01-09 15:31:01,128 - INFO - Low stock levels checked successfully
+2024-01-09 15:31:01,128 - INFO - Products loaded successfully
+2024-01-09 15:31:11,157 - INFO - Low stock levels checked successfully
+2024-01-09 15:31:11,157 - INFO - Products loaded successfully
+2024-01-09 15:31:21,147 - INFO - Low stock levels checked successfully
+2024-01-09 15:31:21,147 - INFO - Products loaded successfully
+2024-01-09 15:31:23,594 - INFO - Viewing sales history.
+2024-01-09 15:31:23,647 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 15:31:25,015 - INFO - Viewing sales history.
+2024-01-09 15:31:25,049 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 15:31:31,149 - INFO - Low stock levels checked successfully
+2024-01-09 15:31:31,149 - INFO - Products loaded successfully
+2024-01-09 15:31:41,161 - INFO - Low stock levels checked successfully
+2024-01-09 15:31:41,161 - INFO - Products loaded successfully
+2024-01-09 15:31:51,149 - INFO - Low stock levels checked successfully
+2024-01-09 15:31:51,150 - INFO - Products loaded successfully
+2024-01-09 15:32:01,262 - INFO - Low stock levels checked successfully
+2024-01-09 15:32:01,262 - INFO - Products loaded successfully
+2024-01-09 15:32:11,161 - INFO - Low stock levels checked successfully
+2024-01-09 15:32:11,161 - INFO - Products loaded successfully
+2024-01-09 15:32:21,260 - INFO - Low stock levels checked successfully
+2024-01-09 15:32:21,260 - INFO - Products loaded successfully
+2024-01-09 15:32:31,149 - INFO - Low stock levels checked successfully
+2024-01-09 15:32:31,149 - INFO - Products loaded successfully
+2024-01-09 15:32:41,274 - INFO - Low stock levels checked successfully
+2024-01-09 15:32:41,274 - INFO - Products loaded successfully
+2024-01-09 15:32:51,178 - INFO - Low stock levels checked successfully
+2024-01-09 15:32:51,178 - INFO - Products loaded successfully
+2024-01-09 15:33:01,191 - INFO - Low stock levels checked successfully
+2024-01-09 15:33:01,191 - INFO - Products loaded successfully
+2024-01-09 15:33:11,192 - INFO - Low stock levels checked successfully
+2024-01-09 15:33:11,192 - INFO - Products loaded successfully
+2024-01-09 15:33:21,196 - INFO - Low stock levels checked successfully
+2024-01-09 15:33:21,196 - INFO - Products loaded successfully
+2024-01-09 15:33:31,209 - INFO - Low stock levels checked successfully
+2024-01-09 15:33:31,209 - INFO - Products loaded successfully
+2024-01-09 15:33:41,213 - INFO - Low stock levels checked successfully
+2024-01-09 15:33:41,213 - INFO - Products loaded successfully
+2024-01-09 15:33:51,213 - INFO - Low stock levels checked successfully
+2024-01-09 15:33:51,213 - INFO - Products loaded successfully
+2024-01-09 15:34:01,215 - INFO - Low stock levels checked successfully
+2024-01-09 15:34:01,215 - INFO - Products loaded successfully
+2024-01-09 15:34:11,226 - INFO - Low stock levels checked successfully
+2024-01-09 15:34:11,226 - INFO - Products loaded successfully
+2024-01-09 15:34:21,235 - INFO - Low stock levels checked successfully
+2024-01-09 15:34:21,235 - INFO - Products loaded successfully
+2024-01-09 15:34:31,247 - INFO - Low stock levels checked successfully
+2024-01-09 15:34:31,247 - INFO - Products loaded successfully
+2024-01-09 15:34:41,251 - INFO - Low stock levels checked successfully
+2024-01-09 15:34:41,251 - INFO - Products loaded successfully
+2024-01-09 15:34:51,264 - INFO - Low stock levels checked successfully
+2024-01-09 15:34:51,264 - INFO - Products loaded successfully
+2024-01-09 15:35:01,285 - INFO - Low stock levels checked successfully
+2024-01-09 15:35:01,285 - INFO - Products loaded successfully
+2024-01-09 15:35:11,282 - INFO - Low stock levels checked successfully
+2024-01-09 15:35:11,282 - INFO - Products loaded successfully
+2024-01-09 15:35:21,404 - INFO - Low stock levels checked successfully
+2024-01-09 15:35:21,404 - INFO - Products loaded successfully
+2024-01-09 15:35:31,296 - INFO - Low stock levels checked successfully
+2024-01-09 15:35:31,297 - INFO - Products loaded successfully
+2024-01-09 15:41:17,306 - INFO - Low stock levels checked successfully
+2024-01-09 15:41:17,306 - INFO - Products loaded successfully
+2024-01-09 15:50:58,254 - INFO - Low stock levels checked successfully
+2024-01-09 15:50:58,254 - INFO - Products loaded successfully
+2024-01-09 15:51:08,283 - INFO - Low stock levels checked successfully
+2024-01-09 15:51:08,283 - INFO - Products loaded successfully
+2024-01-09 15:51:12,070 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 15:51:21,804 - INFO - Stock quantity for product ID 7 updated to 14
+2024-01-09 15:51:21,804 - INFO - Sales order created for "atak helikopteri" - Quantity: 10, Total: 320000.00
+2024-01-09 15:51:21,838 - INFO - Low stock levels checked successfully
+2024-01-09 15:51:21,838 - INFO - Products loaded successfully
+2024-01-09 15:51:24,482 - INFO - Low stock levels checked successfully
+2024-01-09 15:51:24,482 - INFO - Products loaded successfully
+2024-01-09 15:51:28,340 - INFO - Low stock levels checked successfully
+2024-01-09 15:51:28,340 - INFO - Products loaded successfully
+2024-01-09 16:58:07,439 - INFO - Low stock levels checked successfully
+2024-01-09 16:58:07,439 - INFO - Products loaded successfully
+2024-01-09 16:58:17,503 - INFO - Low stock levels checked successfully
+2024-01-09 16:58:17,503 - INFO - Products loaded successfully
+2024-01-09 16:58:18,632 - INFO - Viewing sales history.
+2024-01-09 16:58:18,688 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 16:58:27,487 - INFO - Low stock levels checked successfully
+2024-01-09 16:58:27,487 - INFO - Products loaded successfully
+2024-01-09 16:58:35,077 - INFO - Generating sales report.
+2024-01-09 16:58:37,490 - INFO - Low stock levels checked successfully
+2024-01-09 16:58:37,490 - INFO - Products loaded successfully
+2024-01-09 16:58:45,705 - INFO - Visualizing data with charts.
+2024-01-09 16:58:45,740 - ERROR - Error querying data for visualization: HATA:  "column1" sütunu mevcut deðil
+LINE 1: SELECT column1, column2 FROM reports
+               ^
+
+2024-01-09 16:59:39,995 - INFO - Low stock levels checked successfully
+2024-01-09 16:59:39,995 - INFO - Products loaded successfully
+2024-01-09 16:59:50,018 - INFO - Low stock levels checked successfully
+2024-01-09 16:59:50,019 - INFO - Products loaded successfully
+2024-01-09 16:59:55,975 - ERROR - Error selling product: 'ProductManagementApp' object has no attribute 'log_sales_order'
+2024-01-09 17:00:05,180 - INFO - Stock quantity for product ID 3 updated to 19
+2024-01-09 17:00:05,180 - INFO - Sales order created for "as" - Quantity: 10, Total: 4560.00
+2024-01-09 17:00:05,215 - INFO - Low stock levels checked successfully
+2024-01-09 17:00:05,215 - INFO - Products loaded successfully
+2024-01-09 17:00:16,739 - INFO - Low stock levels checked successfully
+2024-01-09 17:00:16,739 - INFO - Products loaded successfully
+2024-01-09 17:00:20,019 - INFO - Low stock levels checked successfully
+2024-01-09 17:00:20,019 - INFO - Products loaded successfully
+2024-01-09 17:00:30,032 - INFO - Low stock levels checked successfully
+2024-01-09 17:00:30,032 - INFO - Products loaded successfully
+2024-01-09 17:00:40,027 - INFO - Low stock levels checked successfully
+2024-01-09 17:00:40,027 - INFO - Products loaded successfully
+2024-01-09 17:00:50,025 - INFO - Low stock levels checked successfully
+2024-01-09 17:00:50,026 - INFO - Products loaded successfully
+2024-01-09 17:01:00,032 - INFO - Low stock levels checked successfully
+2024-01-09 17:01:00,032 - INFO - Products loaded successfully
+2024-01-09 17:01:10,053 - INFO - Low stock levels checked successfully
+2024-01-09 17:01:10,053 - INFO - Products loaded successfully
+2024-01-09 17:01:20,066 - INFO - Low stock levels checked successfully
+2024-01-09 17:01:20,066 - INFO - Products loaded successfully
+2024-01-09 17:01:30,072 - INFO - Low stock levels checked successfully
+2024-01-09 17:01:30,072 - INFO - Products loaded successfully
+2024-01-09 17:01:40,090 - INFO - Low stock levels checked successfully
+2024-01-09 17:01:40,090 - INFO - Products loaded successfully
+2024-01-09 17:01:50,095 - INFO - Low stock levels checked successfully
+2024-01-09 17:01:50,095 - INFO - Products loaded successfully
+2024-01-09 17:02:00,108 - INFO - Low stock levels checked successfully
+2024-01-09 17:02:00,108 - INFO - Products loaded successfully
+2024-01-09 17:02:10,120 - INFO - Low stock levels checked successfully
+2024-01-09 17:02:10,120 - INFO - Products loaded successfully
+2024-01-09 17:02:20,125 - INFO - Low stock levels checked successfully
+2024-01-09 17:02:20,125 - INFO - Products loaded successfully
+2024-01-09 17:02:30,109 - INFO - Low stock levels checked successfully
+2024-01-09 17:02:30,109 - INFO - Products loaded successfully
+2024-01-09 17:02:38,670 - INFO - Viewing sales history.
+2024-01-09 17:02:38,704 - ERROR - Error loading sales history: HATA:  sales_history.product_id sütunu mevcut deðil
+LINE 1: ...roducts.price FROM sales_history JOIN products ON sales_hist...
+                                                             ^
+HINT:  Belki  "sales_history.product" sütununu kullanmak istediniz
+
+2024-01-09 17:02:40,121 - INFO - Low stock levels checked successfully
+2024-01-09 17:02:40,121 - INFO - Products loaded successfully
+2024-01-09 17:02:48,019 - INFO - Generating sales report.
+2024-01-09 17:02:50,111 - INFO - Low stock levels checked successfully
+2024-01-09 17:02:50,111 - INFO - Products loaded successfully
+2024-01-09 17:03:00,136 - INFO - Low stock levels checked successfully
+2024-01-09 17:03:00,136 - INFO - Products loaded successfully
+2024-01-09 17:03:10,150 - INFO - Low stock levels checked successfully
+2024-01-09 17:03:10,150 - INFO - Products loaded successfully
+2024-01-09 17:03:20,144 - INFO - Low stock levels checked successfully
+2024-01-09 17:03:20,144 - INFO - Products loaded successfully
+2024-01-09 17:03:30,162 - INFO - Low stock levels checked successfully
+2024-01-09 17:03:30,162 - INFO - Products loaded successfully
+2024-01-09 17:03:40,157 - INFO - Low stock levels checked successfully
+2024-01-09 17:03:40,157 - INFO - Products loaded successfully
+2024-01-09 17:03:50,167 - INFO - Low stock levels checked successfully
+2024-01-09 17:03:50,167 - INFO - Products loaded successfully
+2024-01-09 17:04:00,169 - INFO - Low stock levels checked successfully
+2024-01-09 17:04:00,169 - INFO - Products loaded successfully
+2024-01-09 17:04:10,157 - INFO - Low stock levels checked successfully
+2024-01-09 17:04:10,157 - INFO - Products loaded successfully
+2024-01-09 17:04:20,162 - INFO - Low stock levels checked successfully
+2024-01-09 17:04:20,162 - INFO - Products loaded successfully
+2024-01-09 23:06:36,974 - INFO - Low stock levels checked successfully
+2024-01-09 23:06:36,974 - INFO - Products loaded successfully
+2024-01-09 23:06:47,014 - INFO - Low stock levels checked successfully
+2024-01-09 23:06:47,014 - INFO - Products loaded successfully
+2024-01-09 23:06:57,012 - INFO - Low stock levels checked successfully
+2024-01-09 23:06:57,012 - INFO - Products loaded successfully
+2024-01-09 23:07:07,016 - INFO - Low stock levels checked successfully
+2024-01-09 23:07:07,016 - INFO - Products loaded successfully
+2024-01-09 23:07:17,015 - INFO - Low stock levels checked successfully
+2024-01-09 23:07:17,015 - INFO - Products loaded successfully
+2024-01-09 23:07:27,011 - INFO - Low stock levels checked successfully
+2024-01-09 23:07:27,011 - INFO - Products loaded successfully
+2024-01-09 23:07:37,021 - INFO - Low stock levels checked successfully
+2024-01-09 23:07:37,021 - INFO - Products loaded successfully
+2024-01-09 23:07:47,030 - INFO - Low stock levels checked successfully
+2024-01-09 23:07:47,030 - INFO - Products loaded successfully
+2024-01-09 23:07:57,051 - INFO - Low stock levels checked successfully
+2024-01-09 23:07:57,051 - INFO - Products loaded successfully
+2024-01-09 23:08:07,045 - INFO - Low stock levels checked successfully
+2024-01-09 23:08:07,045 - INFO - Products loaded successfully
+2024-01-09 23:08:17,039 - INFO - Low stock levels checked successfully
+2024-01-09 23:08:17,040 - INFO - Products loaded successfully
+2024-01-09 23:08:27,058 - INFO - Low stock levels checked successfully
+2024-01-09 23:08:27,058 - INFO - Products loaded successfully
+2024-01-09 23:08:37,054 - INFO - Low stock levels checked successfully
+2024-01-09 23:08:37,054 - INFO - Products loaded successfully
